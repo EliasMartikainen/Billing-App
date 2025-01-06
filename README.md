@@ -4,6 +4,7 @@
 ## Username: admin
 ## Password: password
 
+
 ## Features
 
 ### 1. Login system
@@ -24,6 +25,7 @@
 ##### - Subscription start date.
 ##### - Subscription end date.
 #### - "Save" button to add the customer to the database.
+
 
 ## Application flow
 
@@ -48,15 +50,20 @@
 #### - Click "Delete customer".
 #### - A confirmation dialog appears after succesful deletion.
 
+
 ## Technical details
 
 ### Framework: .NET Windows Forms.
 ### UI Components: MaterialSkin library for modern design.
 ### Database: Entity Framework is assumed for customer data storage.
 
+
 ## Getting started
-### 1. Clone or download the project.
-### 2.
+
+### 1. Download the release file.
+### 2. Run BillingApp.exe
+
+## Feel free to use or modify this project as you wish. 
 
 
 
