@@ -58,9 +58,9 @@
 ### Database: Entity Framework is assumed for customer data storage.
 
 
-## Getting started
+## How to use it:
 
-### 1. Download the release file.
+### 1. Download the release.rar
 ### 2. Run BillingApp.exe
 
 ## Feel free to use or modify this project as you wish. 
